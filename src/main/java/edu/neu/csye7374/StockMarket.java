@@ -26,4 +26,3 @@ public class StockMarket {
         return bidHistory;
     }
 }
-
